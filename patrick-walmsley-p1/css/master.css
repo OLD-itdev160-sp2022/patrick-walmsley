@@ -1,0 +1,19 @@
+body{
+    font-family: "Times New Roman", "serif";
+    color:green;
+    background-color: blue ;
+}
+
+h1{
+    color:black;
+    background-color: white;
+}
+h2{
+    color:yellow;
+    background-color: purple;
+}
+img{
+    height: 175px;
+    text-align: left;
+}
+
